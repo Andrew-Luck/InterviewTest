@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[ExchangeRateCache] (Default Constraint)
+     Create
+       [dbo].[CompletedTransactions] (Table)
+       Default Constraint: unnamed constraint on [dbo].[CompletedTransactions] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[CompletedTransactions] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[CompletedTransactions] (Default Constraint)
+       [dbo].[FK_CompletedTransactions_ExhangeRateHistory] (Foreign Key)
+
+** Supporting actions

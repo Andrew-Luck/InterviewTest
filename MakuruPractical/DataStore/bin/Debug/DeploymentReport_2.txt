@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[CompletedTransactions].[ClientName] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[CompletedTransactions] (Table)
+     Create
+       [dbo].[Surcharge] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Surcharge] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Surcharge] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Surcharge] (Default Constraint)
+       [dbo].[FK_Surcharge_Currency_CurrencyId] (Foreign Key)
+       [dbo].[FK_CompletedTransactions_Surcharge_SurchargeId] (Foreign Key)
+
+** Supporting actions
+
+The column [dbo].[CompletedTransactions].[ClientName] is being dropped, data loss could occur.
+

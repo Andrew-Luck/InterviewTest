@@ -1,0 +1,10 @@
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\obj\Debug\Makuru.ThickClient.DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Makuru.ThickClient.DataAccess.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Makuru.ThickClient.DataAccess.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Makuru.Models.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Makuru.Models.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\obj\Debug\Makuru.ThickClient.DataAccess.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\obj\Debug\Makuru.ThickClient.DataAccess.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.DataAccess\bin\Debug\Makuru.ThickClient.DataAccess.dll.config

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="f88b70f0-31e0-484b-a52d-0e004d6577cb" ChangeDateTime="06/10/2017 08:37:06">
+    <Property Name="ElementName" Value="[dbo].[ExchangeRateCache].[CurrencyId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ExchangeRateCache]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="FromCurrencyId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="8d9d801f-4422-46a0-8b34-7396882e876c" ChangeDateTime="06/10/2017 08:41:38">
+    <Property Name="ElementName" Value="[dbo].[Table1].[IsDel]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Table1]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IsDeleted" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="574dcf78-9e36-40f9-8e19-a5a6a8d73312" ChangeDateTime="06/10/2017 08:47:09">
+    <Property Name="ElementName" Value="[dbo].[FK_FromCurrencyId_CurrencyId]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[ExchangeRateCache]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_ExchangeRateCache_FromCurrencyId_CurrencyId]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bf15635d-0c91-4d8b-8e7e-3f3c71ffc14e" ChangeDateTime="06/10/2017 08:47:47">
+    <Property Name="ElementName" Value="[dbo].[FK_ExchangeRateCache_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[ExchangeRateCache]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_ExchangeRateCache_ToCurrencyId_CurrencyId]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c44ce420-6a34-4490-9b22-20836c85edee" ChangeDateTime="06/10/2017 10:55:18">
+    <Property Name="ElementName" Value="[dbo].[ExchangeRateCache].[ModifiedDate]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ExchangeRateCache]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="DateCreated" />
+  </Operation>
+</Operations>

@@ -1,0 +1,9 @@
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\DataStore.dacpac
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\DataStore.dll
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\DataStore.pdb
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\DataStore.dll
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\DataStore.pdb
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\Model.xml
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\refactor.xml
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\postdeploy.sql
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\predeploy.sql

@@ -1,0 +1,5 @@
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\Makuru.dacpac
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\DataStore.dll
+D:\Projects\Makuru\MakuruPractical\DataStore\obj\Debug\DataStore.pdb
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\DataStore.dll
+D:\Projects\Makuru\MakuruPractical\DataStore\bin\Debug\DataStore.pdb

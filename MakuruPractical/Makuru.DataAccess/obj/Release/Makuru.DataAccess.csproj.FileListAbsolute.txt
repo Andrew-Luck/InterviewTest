@@ -1,0 +1,15 @@
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DataAccess.dll.config
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DataAccess.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DataAccess.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\EntityFramework.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DatabaseStore.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.Models.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DatabaseStore.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.DatabaseStore.dll.config
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\Makuru.Models.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\EntityFramework.xml
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\obj\Release\Makuru.DataAccess.csprojResolveAssemblyReference.cache
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\obj\Release\Makuru.DataAccess.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.DataAccess\obj\Release\Makuru.DataAccess.pdb

@@ -1,0 +1,12 @@
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.ThickClient.BusinessLogic.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.ThickClient.BusinessLogic.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.Models.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.ThickClient.DataAccess.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.Models.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.ThickClient.DataAccess.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Makuru.ThickClient.DataAccess.dll.config
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\obj\Debug\Makuru.ThickClient.BusinessLogic.csprojResolveAssemblyReference.cache
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\obj\Debug\Makuru.ThickClient.BusinessLogic.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.ThickClient.BusinessLogic\obj\Debug\Makuru.ThickClient.BusinessLogic.pdb

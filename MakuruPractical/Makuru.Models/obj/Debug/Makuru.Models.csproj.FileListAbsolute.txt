@@ -1,0 +1,5 @@
+D:\Projects\Makuru\MakuruPractical\Makuru.Models\bin\Debug\Makuru.Models.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.Models\bin\Debug\Makuru.Models.pdb
+D:\Projects\Makuru\MakuruPractical\Makuru.Models\obj\Debug\Makuru.Models.csprojResolveAssemblyReference.cache
+D:\Projects\Makuru\MakuruPractical\Makuru.Models\obj\Debug\Makuru.Models.dll
+D:\Projects\Makuru\MakuruPractical\Makuru.Models\obj\Debug\Makuru.Models.pdb

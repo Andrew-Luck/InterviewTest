@@ -1,0 +1,8 @@
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\bin\Debug\MakuruPractical.exe.config
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\bin\Debug\MakuruPractical.exe
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\bin\Debug\MakuruPractical.pdb
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\obj\Debug\Makuru.ThickClient.csprojResolveAssemblyReference.cache
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\obj\Debug\MakuruPractical.Properties.Resources.resources
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\obj\Debug\Makuru.ThickClient.csproj.GenerateResource.Cache
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\obj\Debug\MakuruPractical.exe
+D:\Projects\Makuru\MakuruPractical\MakuruPractical\obj\Debug\MakuruPractical.pdb

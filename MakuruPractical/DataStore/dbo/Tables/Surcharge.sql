@@ -1,0 +1,9 @@
+﻿CREATE TABLE [dbo].[Surcharge]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY DEFAULT NEWID(), 
+    [CurrencyId] UNIQUEIDENTIFIER NOT NULL, 
+    [Value] DECIMAL(18, 4) NOT NULL DEFAULT 0.0, 
+    [DateCreated] DATETIMEOFFSET NOT NULL DEFAULT GETDATE(), 
+    [IsDeleted] BIT NOT NULL, 
+    CONSTRAINT [FK_Surcharge_Currency_CurrencyId] FOREIGN KEY ([CurrencyId]) REFERENCES [Currency]([Id])
+)
