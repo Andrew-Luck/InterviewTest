@@ -14,6 +14,7 @@ namespace MakuruPractical
 {
     public partial class CurrencyPurchase : Form
     {
+		
         PurchaseCurrency logic;
         public CurrencyPurchase()
         {
